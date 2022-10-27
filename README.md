@@ -9,6 +9,8 @@
 
 ## About the project
 
+A website that allows you to take four different fandoms quizzes and get a positive or negative result
+
 ![Video-Gif720p](https://raw.githubusercontent.com/Solmyrik/solmquiz/master/gitgif/solmQuiz_-_Google_Chrome_2022-10-27_18-15-17.gif)
 
 
