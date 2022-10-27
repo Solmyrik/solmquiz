@@ -9,6 +9,8 @@
 
 ## About the project
 
+![Video-Gif720p](https://raw.githubusercontent.com/Solmyrik/solmquiz/master/gitgif/solmQuiz_-_Google_Chrome_2022-10-27_18-15-17.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
