@@ -2,7 +2,7 @@
 
 <a href="https://cinemastar.herokuapp.com/">
   <div>
-   <img align="left" alt="Cinema Stars" width="22px" src="https://i.ya-webdesign.com/images/internet-transparent-globe-8.png" />
+   <img align="left" alt="Cinema Stars" width="22px" src="https://w7.pngwing.com/pngs/929/206/png-transparent-computer-icons-hyperlink-symbol-link-miscellaneous-text-logo-thumbnail.png" />
    <h3><a href="https://solmquiz-qr8h.vercel.app/">solmquiz project website</a></h3>
   </div>
 </a>
